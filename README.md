@@ -3,6 +3,8 @@
 [![Status](https://img.shields.io/badge/-Active-valid?style=for-the-badge&label=Status)](https://github.com/IanToujou/QB-Disable-Radio/releases)
 [![Supports](https://img.shields.io/badge/-QB-ff005d?style=for-the-badge&label=Supports)](https://github.com/IanToujou/QB-Disable-Radio/releases)
 [![Version](https://img.shields.io/github/v/release/IanToujou/QB-Disable-Radio?style=for-the-badge&label=Version)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![Downloads](https://img.shields.io/github/downloads/IanToujou/QB-Disable-Radio/total?color=valid&label=Downloads&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![License](https://img.shields.io/github/license/IanToujou/QB-Disable-Radio?label=License&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
 
 ## **📝 DESCRIPTION**
 
