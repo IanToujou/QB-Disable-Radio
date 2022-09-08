@@ -6,6 +6,8 @@
 [![Downloads](https://img.shields.io/github/downloads/IanToujou/QB-Disable-Radio/total?color=valid&label=Downloads&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
 [![License](https://img.shields.io/github/license/IanToujou/QB-Disable-Radio?label=License&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
 
+![QB-Disable-Radio Thumbnail](https://user-images.githubusercontent.com/44029196/189206196-8f943803-26d7-4cc9-8761-5d0739a3f14d.png)
+
 ## **📝 DESCRIPTION**
 
 This script does exactly as the name says, it disables the default in-game radio on your server. This is useful if you want to implement your own radio system.
