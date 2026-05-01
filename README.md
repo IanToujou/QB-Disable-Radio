@@ -1,24 +1,23 @@
-# **✨ QB DISABLE RADIO**
+# QB Disable Radio
 
-[![Status](https://img.shields.io/badge/-Active-valid?style=for-the-badge&label=Status)](https://github.com/IanToujou/QB-Disable-Radio/releases)
-[![Supports](https://img.shields.io/badge/-QB-ff005d?style=for-the-badge&label=Supports)](https://github.com/IanToujou/QB-Disable-Radio/releases)
-[![Version](https://img.shields.io/github/v/release/IanToujou/QB-Disable-Radio?style=for-the-badge&label=Version)](https://github.com/IanToujou/QB-Disable-Radio/releases)
-[![Downloads](https://img.shields.io/github/downloads/IanToujou/QB-Disable-Radio/total?color=valid&label=Downloads&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
-[![License](https://img.shields.io/github/license/IanToujou/QB-Disable-Radio?label=License&style=for-the-badge)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![Version](https://img.shields.io/github/v/release/IanToujou/QB-Disable-Radio?label=Version)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![Downloads](https://img.shields.io/github/downloads/IanToujou/QB-Disable-Radio/total?color=valid&label=Downloads)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![License](https://img.shields.io/github/license/IanToujou/QB-Disable-Radio?label=License)](https://github.com/IanToujou/QB-Disable-Radio/releases)
+[![Support](https://img.shields.io/badge/-Support-teal?logo=github)](https://github.com/IanToujou/)
 
-![QB-Disable-Radio Thumbnail](https://user-images.githubusercontent.com/44029196/189206394-82af754b-25f0-4d1f-a54a-60bfac52ed1c.jpg)
+<img width="2099" height="1047" alt="QB Disable Radio" src="https://github.com/user-attachments/assets/2ffaa65e-412d-4974-8040-d28486dd44b8" />
 
-## **📝 DESCRIPTION**
+## Description
 
 This script does exactly as the name says, it disables the default in-game radio on your server. This is useful if you want to implement your own radio system.
 
-## **🔥 FEATURES**
+## Features
 
 * Disables the default in-game radio in case you want to add your custom one.
 
-## **📕 GUIDES**
+## Guides
 
-### **📲 INSTALLATION**
+### Installation
 
 - Download the latest version in the `Releases` tab.
 - Drag the script into your resource folder.
@@ -26,8 +25,9 @@ This script does exactly as the name says, it disables the default in-game radio
 - Make sure the script starts after all the other scripts, or else it could not work.
 - Restart the server!
 
-## **🛠️ SUPPORT**
+## Support
 
-If you have any questions or problems regarding this project, you can reach me via any linked social media account on my profile. Just click the button below!
+Please make sure to have read the documentation regarding your issue.
+If, however, you do have an issue or any question, you can always reach me via any linked social media account [on my profile](https://github.com/IanToujou).
 
-[![Support](https://img.shields.io/badge/-Support-teal?style=for-the-badge&logo=github)](https://github.com/IanToujou)
+You can also open an issue on the GitHub repository.
